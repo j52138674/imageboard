@@ -1,3 +1,3 @@
 # Imageboard
 
-It's simple imageboard written in C++ using the Qt Framework. 
+This is a simple imageboard written in C++ using the Qt Framework. 
